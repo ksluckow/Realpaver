@@ -2,15 +2,13 @@ This is a ported version of [RealPaver 0.4](http://pagesperso.lina.univ-nantes.f
 
 To build and install realpaver, go to the root directory and simply run the configure script and make:
 
-```
-#!bash
-
+```bash
 # ./configure
 # make
 ```
 
 
------------Original README----------------
+## Original README
 
 RealPaver release 0.4
   Solving Nonlinear Constraints by Interval Computations
